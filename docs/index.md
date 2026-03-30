@@ -1,0 +1,26 @@
+---
+layout: home
+
+hero:
+  name: "数字叉车"
+  text: "美西仓储物流自动化神器"
+  tagline: 零代码基础？AI 帮你手搓浏览器插件，像开叉车一样搬运网页数据！
+  actions:
+    - theme: brand
+      text: 开始学习指引
+      link: /tech_prompt
+    - theme: alt
+      text: 查看实操记录
+      link: /operation-records/README
+    - theme: alt
+      text: 访问代码库 (GitHub)
+      link: https://github.com/yunquna/chromeextdemo
+
+features:
+  - title: 💡 打破录入闭环
+    details: 消除 UPS/FedEx 等跨站数据拷贝黑洞，彻底告别由手动誊写导致 WMS 入库出错和核销延误的惨痛代价。
+  - title: 🤖 AI 变身专属程序员
+    details: 只需向 ChatGPT/Claude 说出你的痛点，依靠本站提供的万能“咒语模板”，它能几秒钟为你直接搭建全套自动化助手引擎。
+  - title: 🚀 属于你的终极提单
+    details: 在纯本地环境安全执行。免抓包、免后端交互、无敏感商业数据外泄，直接驱动浏览器抓取与操作底层网页节点。
+---
